@@ -1,0 +1,74 @@
+
+
+.body {
+
+    background-image: url(./programmer\ work.jpg);
+
+}
+.nav-link{
+    color: #FF6500;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: #FF6500;}
+
+#maroon{
+    background-color: #301f25;
+}
+#org{
+    color: #EB5B00;
+    padding: 100px;
+}
+#maroon-1{
+    background-color: #301f25;
+    
+}
+.sectionabout{
+    margin-top: 50px;
+  }
+.sectioncontact {
+    margin-top: 30px;
+}
+
+
+  
+#maroon-2{
+    background-color: #301f25;
+    
+}
+
+#org-1{
+    color: #EB5B00;
+    padding-left: 300px;
+}
+
+#org-2{
+    color: #FFB200;
+}
+
+
+#maroon-6{
+    background-color: #FFB200;
+}
+.linkden{
+ 
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.linkedinme svg {
+    width: 42px;
+    height: 30px;
+  }
+
+#org-4{
+    padding-left: 30px;
+    color: #FFB200;
+}
+
+@media screen and (max-width: 768px) {
+    
+  }
+  
